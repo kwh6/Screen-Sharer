@@ -1,2 +1,21 @@
-# Screen-Sharer
-A simple yet elegant web application you can use to share the screen of your laptop (mac for example) and display it on other devices on the same network
+# ScreenShare Live
+
+A peer-to-peer screen sharing app built with React, TailwindCSS, and PeerJS — with zero backend.
+
+## Features
+
+- Peer-to-peer screen sharing via WebRTC (using PeerJS)
+- Share your screen in real time with another device
+- Works locally over LAN or remotely using PeerJS cloud server
+- Mobile friendly — responsive Tailwind UI
+- One-click Fullscreen viewer mode
+
+## Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/screenshare-live.git
+cd screenshare-live
+npm install
+HOST=0.0.0.0 npm start
