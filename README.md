@@ -16,6 +16,6 @@ A peer-to-peer screen sharing app built with React, TailwindCSS, and PeerJS — 
 
 ```bash
 git clone https://github.com/kwh6/screen-sharer.git
-cd screenshare-live
+cd screen-sharer
 npm install
 HOST=0.0.0.0 npm start
