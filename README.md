@@ -1,7 +1,6 @@
 # Screen Sharer
 
-A peer-to-peer screen sharing app built with React, TailwindCSS, and PeerJS — with zero backend.
-
+A peer-to-peer screen sharing app built with React, TailwindCSS, and PeerJS
 ## Features
 
 - Peer-to-peer screen sharing via WebRTC (using PeerJS)
